@@ -3,3 +3,5 @@
 
 관련 sql파일
 https://github.com/ArimYeon/course_registration_system-SQL
+시연 영상
+https://drive.google.com/file/d/1xyS80tNaiA1UnZliTEEWf2EBEVPIg4eS/view?usp=sharing
